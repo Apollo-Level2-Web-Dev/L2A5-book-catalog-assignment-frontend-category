@@ -81,14 +81,14 @@ You should add the links to the readme.md file.
 
 ** Filter Implementation
 
-In this project, students have the option to implement the filter functionality both in the frontend side or in the backend side.But 
+In this project, students have the option to implement the filter functionality both on the frontend side or on the backend side. But 
 - if you are planning to pursue your career as a full-stack developer, you are strongly recommended to implement backend filtering. 
 - If you are planning to pursue your career as a frontend developer only you can skip backend complexity. There is no requirement for implementing backend filtering. The backend does not need to support specific filtering endpoints or functionalities. 
 
 ** User Authentication and Book Management
 
 In this project, user authentication is required. Only authenticated users should be able to edit or delete the books they have added to the catalog. Please ensure that your backend implementation includes user authentication and restricts book management operations to the authenticated user's own books. Keep in mind that unauthorized users should not have access to edit or delete books added by other users.
-- if you are planning to pursue your career as a full-stack developer, you are strongly recommended to implement a custom authentication system. 
+- if you are planning to pursue your career as a full-stack developer, you are encouraged to implement a custom authentication system. 
 - If you are planning to pursue your career as a frontend developer only you can skip/implement custom authentication. If you want to skip custom authentication, you can use Firebase too There is no requirement for implementing a backend filtering. The backend does not need to support specific filtering endpoints or functionalities.
 
 
