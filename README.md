@@ -62,8 +62,8 @@ Implement a wishlist feature where users can add books they want to read in the 
 
 ### Deadline:
 
-- 60 Marks ( Till 15th July, Saturday 11.59 PM  ) 
-- 50 Marks  ( Till 16Th July, Sunday 11.59 PM )
+- 60 Marks ( Till 16th July, Sunday 11.59 PM  ) 
+- 50 Marks  ( Till 18Th July, Tuesday 11.59 PM )
 
  `** In order for your assignment to be evaluated, it is essential to have a minimum of 20 meaningful commits. Please note that unnecessary commits will not be considered as part of the evaluation process.**`
 
