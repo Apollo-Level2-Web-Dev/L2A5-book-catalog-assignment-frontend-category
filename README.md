@@ -81,22 +81,22 @@ You should add the links to the readme.md file.
 
 ** Filter Implementation
 
-In this project, students have the option to implement the filter functionality both in frontens side or in backend side .But 
-- if you are planning to pursue your career as a fullstack developer , you are strongly recommended to implement backend filtering. 
-- If you are planning to pursue your career as a frontend developer only you can skip backend complexity . There is no requirement for implementing a backend filtering. The backend does not need to support specific filtering endpoints or functionalities. 
+In this project, students have the option to implement the filter functionality both in the frontend side or in the backend side.But 
+- if you are planning to pursue your career as a full-stack developer, you are strongly recommended to implement backend filtering. 
+- If you are planning to pursue your career as a frontend developer only you can skip backend complexity. There is no requirement for implementing backend filtering. The backend does not need to support specific filtering endpoints or functionalities. 
 
 ** User Authentication and Book Management
 
 In this project, user authentication is required. Only authenticated users should be able to edit or delete the books they have added to the catalog. Please ensure that your backend implementation includes user authentication and restricts book management operations to the authenticated user's own books. Keep in mind that unauthorized users should not have access to edit or delete books added by other users.
-- if you are planning to pursue your career as a fullstack developer , you are strongly recommended to implement custom authentication system. 
-- If you are planning to pursue your career as a frontend developer only you can skip/implement custom authentication.If you want to skip custom authentication , you can uuse firease too There is no requirement for implementing a backend filtering. The backend does not need to support specific filtering endpoints or functionalities.
+- if you are planning to pursue your career as a full-stack developer, you are strongly recommended to implement a custom authentication system. 
+- If you are planning to pursue your career as a frontend developer only you can skip/implement custom authentication. If you want to skip custom authentication, you can use Firebase too There is no requirement for implementing a backend filtering. The backend does not need to support specific filtering endpoints or functionalities.
 
 
 ** Backend Implementation Guidelines
 
-In order to ensure a fully functional frontend application, it is required for students to implement a backend for this project. The backend will be responsible for providing the necessary APIs to serve data to the front end and handle backend logic.
+In order to ensure a fully functional frontend application, it is required for students to implement a backend for this project. The backend will be responsible for providing the necessary APIs to serve data to the front end and handle logic.
 
-However, please note that the backend code will not be provided as part of this project. Students are encouraged to implement the backend independently, without the requirement to follow any specific pattern such as Modular or MVC.
+However, please note that the backend code will not be provided as part of this project. Students are encouraged to implement the backend independently.
 
 The primary focus and evaluation of this project will be on the frontend implementation, specifically utilizing React, Redux Toolkit, and RTK Query. It is crucial that the front end is working properly and demonstrating the effective use of state management and data integration.
 
