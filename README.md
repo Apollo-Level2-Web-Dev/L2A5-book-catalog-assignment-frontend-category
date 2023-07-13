@@ -1,4 +1,4 @@
-# Assignment 5:Build a Simple Book Catalog Application using React & Redux  (Frontend Category)
+# Assignment 5:Build a Simple Book Catalog Application using React ,Redux & Typescript (Frontend Category)
 
 ## Main Part:
 
