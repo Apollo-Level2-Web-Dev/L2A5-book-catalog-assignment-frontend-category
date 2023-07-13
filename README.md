@@ -8,7 +8,7 @@ Create a simple and clean landing page for a book catalog system using React and
 
 ### Login Page and Registration Page: ( You can use firebase authentication or custom authentication) 
 
-Create a way for users to create new accounts with a unique username and password. Also, create a way for users to log in using their credentials. After a successful login, the login button should be replaced with a logout button in the navbar. Create a way for users to securely log out of the application.
+Create a way for users to create new accounts with a unique email and password. Also, create a way for users to log in using their credentials. After a successful login, the login button should be replaced with a logout button in the navbar. Create a way for users to securely log out of the application.
   
 ### All Books Page 
 
